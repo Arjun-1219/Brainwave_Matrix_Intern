@@ -3,4 +3,4 @@ Project Overview
 Project Title: Library Management System
 Database: library_management
 
-This project demonstrates the implementation of a Library Management System using SQL.
+This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables.
