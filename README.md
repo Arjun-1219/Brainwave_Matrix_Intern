@@ -14,7 +14,7 @@ Set up the Library Management System Database: Create and populate the database 
 
 CRUD Operations: Perform Create, Read, Update, and Delete operations on the data.
 
-SQL Queries: Develop complex queries to analyze and retrieve specific data.
+SQL Queries: Develop queries to analyze and retrieve specific data.
 
 Project Structure
 
@@ -35,6 +35,12 @@ Read: Retrieved and displayed data from various tables.
 Update: Updated records in the employees table.
 
 Delete: Removed records from the members table as needed.
+
+/*Create New Book Record*/
+
+Insert into books(isbn,Book_title,category,rental_price,status,author,publisher)
+Values(978-15-478125-6,'Baahubali the Beginning','History',6.50,'Yes','SS Rajumoli','Tollywood');
+
 
 
 
