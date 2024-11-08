@@ -39,6 +39,11 @@ Delete: Removed records from the members table as needed.
 /*Create New Book Record*/
 ![Insert new record](https://github.com/user-attachments/assets/39fa0e42-6421-4bd4-a992-1efbed5a6803)
 
+![UPDATE](https://github.com/user-attachments/assets/5eb9f70b-ac1c-471a-95ff-a7ab84def243)
+
+![delete](https://github.com/user-attachments/assets/d6bad1d2-e703-469e-93ef-fdac27d8adcf)
+
+
 
 
 
