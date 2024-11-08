@@ -16,3 +16,6 @@ CRUD Operations: Perform Create, Read, Update, and Delete operations on the data
 
 SQL Queries: Develop complex queries to analyze and retrieve specific data.
 
+![Screenshot 2024-11-08 100520](https://github.com/user-attachments/assets/0c0f52b1-e556-4279-80e1-503cb4fc199f)
+
+
