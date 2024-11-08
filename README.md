@@ -16,6 +16,26 @@ CRUD Operations: Perform Create, Read, Update, and Delete operations on the data
 
 SQL Queries: Develop complex queries to analyze and retrieve specific data.
 
+Project Structure
+
+1. Database Setup
+
 ![Screenshot 2024-11-08 100520](https://github.com/user-attachments/assets/0c0f52b1-e556-4279-80e1-503cb4fc199f)
+
+Database Creation: Created a database named library_Management.
+
+Table Creation: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
+
+ CRUD Operations
+ 
+Create: Inserted sample records into the books table.
+
+Read: Retrieved and displayed data from various tables.
+
+Update: Updated records in the employees table.
+
+Delete: Removed records from the members table as needed.
+
+
 
 
