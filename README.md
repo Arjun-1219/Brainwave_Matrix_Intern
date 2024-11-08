@@ -39,7 +39,9 @@ Delete: Removed records from the members table as needed.
 /*Create New Book Record*/
 
 Insert into books(isbn,Book_title,category,rental_price,status,author,publisher)
+
 Values(978-15-478125-6,'Baahubali the Beginning','History',6.50,'Yes','SS Rajumoli','Tollywood');
+
 
 
 
