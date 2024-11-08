@@ -37,12 +37,6 @@ Update: Updated records in the employees table.
 Delete: Removed records from the members table as needed.
 ![curd](https://github.com/user-attachments/assets/dab149f4-e138-4dcf-aadd-a339d02991ee)
 
-•	ARJUN•	ARJUN
-
-•	TRKJGJDFKGJTKL
-•	GKLGDFKJGKGJGKL
-•	DEGOIDGKLRJGKLJGKL
-•	RGOERIJGDKLGJKLJG
 
 
 
