@@ -37,10 +37,8 @@ Update: Updated records in the employees table.
 Delete: Removed records from the members table as needed.
 
 /*Create New Book Record*/
+![Insert new record](https://github.com/user-attachments/assets/39fa0e42-6421-4bd4-a992-1efbed5a6803)
 
-Insert into books(isbn,Book_title,category,rental_price,status,author,publisher)
-
-Values(978-15-478125-6,'Baahubali the Beginning','History',6.50,'Yes','SS Rajumoli','Tollywood');
 
 
 
