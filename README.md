@@ -1,4 +1,4 @@
-my first Project Library Management System using MY SQL
+My First Project Library Management System using MY SQL
 
 Project Overview
 
