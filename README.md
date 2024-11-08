@@ -35,7 +35,8 @@ Read: Retrieved and displayed data from various tables.
 Update: Updated records in the employees table.
 
 Delete: Removed records from the members table as needed.
-![Curd](https://github.com/user-attachments/assets/6d60581b-0949-4af5-ac32-c88589ba274b)
+![curd](https://github.com/user-attachments/assets/dab149f4-e138-4dcf-aadd-a339d02991ee)
+
 
 
 
